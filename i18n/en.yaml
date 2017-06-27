@@ -39,6 +39,9 @@
 - id: title_support
   translation: "Knowledge Base"
 
+- id: title_resources
+  translation: "Resources"
+
 
 # Partials
 ### header ###

@@ -17,6 +17,8 @@
 - id: title_roadmap
   translation: "Fahrplan"
 
+- id: title_resources
+  translation: "Resources" # TODO: i18n: update translation
 
 # Partials
 ### header ###

@@ -17,6 +17,8 @@
 - id: title_roadmap
   translation: "Calendrier de Lancement"
 
+- id: title_resources
+  translation: "Resources" # TODO: i18n: update translation
 
 # Partials
 ### header ###

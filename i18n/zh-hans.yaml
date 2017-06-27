@@ -3,7 +3,7 @@
   translation: "关于"
 
 - id: title_apps
-  translation: "Download" # TODO: i18n: update translation
+  translation: "下载"
 
 - id: title_faq
   translation: "经常问到的问题"
@@ -17,6 +17,11 @@
 - id: title_roadmap
   translation: "路线图"
 
+- id: title_support
+  translation: "基本知识"
+
+- id: title_resources
+  translation: "资源"
 
 # Partials
 ### header ###
@@ -34,10 +39,10 @@
   translation: "白皮书"
 
 - id: discover_blog
-  translation: "部落格"
+  translation: "博客"
 
 - id: discover_explorer
-  translation: "区块链探索者"
+  translation: "区块链浏览器"
 
 - id: discover_devdocs
   translation: "研发者的文件"
@@ -262,13 +267,13 @@
   translation: "挖矿"
 
 - id: apps_miner1
-  translation: "The official GPU miner" # TODO: translate
+  translation: "官方GPU挖矿程序"
 
 - id: apps_altminer
-  translation: "另类的矿工"
+  translation: "第三方挖矿程序"
 
 - id: apps_altminer1
-  translation: "一个GPU 细亚矿工在 Go里"
+  translation: "由Go构建的GPU挖矿程序"
 
 - id: apps_sourcecode
   translation: "Source code on GitHub"
@@ -281,19 +286,19 @@
   translation: "区块探查者"
 
 - id: apps_explorerp
-  translation: "细亚区块链探查者"
+  translation: "细亚区块链浏览器"
 
 - id: apps_minebox
-  translation: "Next generation NAS powered by Sia" # TODO: translate
+  translation: "基于细亚下一代NAS存储"
 
 - id: apps_siacluster
-  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+  translation: "对于细亚数据监控及管理工具"
 
 - id: apps_gnomeshell
-  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+  translation: "GNOME Shell 细亚云存储插件"
 
 - id: apps_siapulse
-  translation: "Analytics tool for Sia" # TODO: translate
+  translation: "细亚数据分析工具"
 
 
 # URL: /faq.html
